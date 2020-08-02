@@ -7,3 +7,5 @@
 [Generate your data in parallel with PyTorch](https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel)
 
 [Pytorch Dataset and Dataloader-Kaggle](https://www.kaggle.com/pinocookie/pytorch-dataset-and-dataloader)
+
+[Another example of Dataloading](https://naadispeaks.wordpress.com/2019/10/08/pytorch-custom-dataset-tips-and-tricks/)
