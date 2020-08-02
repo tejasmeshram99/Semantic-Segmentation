@@ -5,3 +5,5 @@
 [Pytorch Custom Datasets Tutorial](https://github.com/utkuozbulak/pytorch-custom-dataset-examples)
 
 [Generate your data in parallel with PyTorch](https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel)
+
+[Pytorch Dataset and Dataloader-Kaggle](https://www.kaggle.com/pinocookie/pytorch-dataset-and-dataloader)
